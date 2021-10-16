@@ -1,0 +1,13 @@
+#button {
+    height : 50px;
+    width : 200px;
+    color : white;
+    text-align : center;
+    background-color : aqua;
+    font-size : 45px;
+    border-radius : 80px;
+}
+#family_member_image  {
+    height : 1000px;
+    width : 500px;
+}
